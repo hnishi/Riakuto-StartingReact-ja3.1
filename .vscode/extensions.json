@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "esbenp.prettier-vscode",
+    "visualstudioexptteam.vscodeintellicode",
+    "coenraads.bracket-pair-colorizer-2",
+    "oderwat.indent-rainbow",
+    "vscode-icons-team.vscode-icons",
+    "wix.vscode-import-cost",
+    "donjayamanne.githistory",
+    "msjsdiag.debugger-for-chrome",
+    "vscodevim.vim",
+    "ms-vsliveshare.vsliveshare"
+  ]
+}
